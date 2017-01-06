@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## UMIAMI Robotic Mining Competition Team
 
-You can use the [editor on GitHub](https://github.com/umiamirmc/umiamirmc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the official page of the University of Miami's Competition Team for NASA's Robotic Mining Competition.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
