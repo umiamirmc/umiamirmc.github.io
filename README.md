@@ -6,10 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-## UMIAMI Robotic Mining Competition Team
-
-Welcome to the official page of the University of Miami's Competition Team for NASA's Robotic Mining Competition.
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
